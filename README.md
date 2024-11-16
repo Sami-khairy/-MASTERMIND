@@ -78,16 +78,16 @@ Ce projet est réalisé en C, avec une attention particulière portée à l'inte
 Voici des captures d'écran montrant l'interface du jeu et ses fonctionnalités.
 
 #### **1. Menu Principal**
-![Menu Principal](![1](https://github.com/user-attachments/assets/5fa29e9f-72b1-473b-8098-439412ac60c3))
+![Menu Principal](https://github.com/user-attachments/assets/5fa29e9f-72b1-473b-8098-439412ac60c3)
 
 #### **2. Entrée des Joueurs**
-![Entrée des Joueurs](![2](https://github.com/user-attachments/assets/0e1807ea-c2f9-4321-8904-f4e98f0e6132))
+![Entrée des Joueurs](https://github.com/user-attachments/assets/0e1807ea-c2f9-4321-8904-f4e98f0e6132)
 
 #### **3. Résultats d'une Partie**
-![Résultats d'une Partie](![3](https://github.com/user-attachments/assets/a560dc0f-99a5-4594-a6b5-37dce344c6b6))
+![Résultats d'une Partie](https://github.com/user-attachments/assets/a560dc0f-99a5-4594-a6b5-37dce344c6b6)
 
 #### **4. Sauvegarde des Scores**
-![Fichier de Scores](![4](https://github.com/user-attachments/assets/a2fedaf6-e35b-44d4-a0fd-aed1b7881938)
+![Fichier de Scores](https://github.com/user-attachments/assets/a2fedaf6-e35b-44d4-a0fd-aed1b7881938)
 )
 
 
