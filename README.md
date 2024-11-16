@@ -152,9 +152,3 @@ Le projet repose sur les bibliothèques standards suivantes :
 Ce projet est distribué sous licence libre. Vous êtes libre de le modifier et de le redistribuer à des fins éducatives ou personnelles.
 
 ---
-
-### **Conclusion**
-Le jeu **Master Mind** est une application amusante et interactive démontrant les compétences en programmation C. Il est parfait pour une utilisation éducative ou pour les amateurs de jeux de logique.
-
----
-
